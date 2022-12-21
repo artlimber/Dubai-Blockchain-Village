@@ -1,9 +1,10 @@
+# ©
 title = "Dubai Blockchain Village"
 baseURL = "https://artlimber.github.io"
 languageCode = "en-us"
 theme = ["gohugo-theme-ananke"]
 resourceDir = "../resources"
-Copyright = "© Willenrimer 2023"
+Copyright = "Willenrimer"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
