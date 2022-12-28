@@ -1,0 +1,13 @@
+---
+label: About us
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: featured_image
+  label: featured_image
