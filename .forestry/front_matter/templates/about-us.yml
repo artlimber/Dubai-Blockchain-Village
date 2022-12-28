@@ -12,4 +12,5 @@ fields:
   name: featured_image
   label: featured_image
 pages:
+- content/sdfsd.md
 - content/welcome-to-blockchain-dubai-village.md
